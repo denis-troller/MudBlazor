@@ -11,6 +11,7 @@ Please make sure that you follow our [code of conduct](/CODE_OF_CONDUCT.md)
 - [.NET 6.0 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
 - [.NET 7.0 SDK](https://dotnet.microsoft.com/download/dotnet/7.0)
 
+
 ## Pull Requests
 - Your Pull Request must only consist of one topic. It is better to split Pull Requests with more than one feature or bug fix in seperate Pull Requests
 - You must fork the repository and clone it locally first. (The main repository is protected and does not accept direct commits.)
